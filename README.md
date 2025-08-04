@@ -1,6 +1,6 @@
 # Olá! <br/> Sou o Felipe Iotti Zago, desenvolvedor Full Stack. 
 <h3>Sobre mim:</h3>
-<p>Estudante de engenharia elétrica com experiência na área de desenvolvimento web e mobile. Em busca de desafios e principalmente em ter um aprendizado novo a cada dia, podendo ter contato com diversas áreas e vivenciar novas experiências sempre que possível, aproveitando ao máximo tudo o que for permitido absorver e contribuir. Foco em aprimorar o conhecimento na área de tecnologia e desenvolvimento de aplicações web e mobile. Sempre procurando projetos desafiadores e entusiasmado em resolução de problemas.
+<p>Desenvolvedor Web e Mobile com experiência sólida em ReactJS e React Native, especializado no desenvolvimento de aplicações escaláveis e performáticas. Apaixonado por resolver desafios complexos e otimizar processos por meio da tecnologia. Possuo expertise no desenvolvimento full stack, com conhecimento em Node.js e integração com APIs. Busco constantemente inovação e aprendizado, contribuindo ativamente para o crescimento das equipes e o sucesso dos projetos.
 </p>
 
 ##
