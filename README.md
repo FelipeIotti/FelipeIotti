@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/FelipeIotti">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FelipeIotti&theme=rose_pine&repo=github-readme-stats-fast"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipeIotti&theme=rose_pine&layout=compact"/>
    
   </div>
 <div style="display: inline_block"><br>
