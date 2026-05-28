@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/FelipeIotti">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipeIotti&layout=compact&langs_count=7&theme=rose_pine"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=FelipeIotti&layout=compact&langs_count=7&theme=rose_pine"/>
+  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Iotti-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
