@@ -1,40 +1,18 @@
-# Olá! <br/> Sou o Felipe Iotti Zago, desenvolvedor Full Stack. 
-<h3>Sobre mim:</h3>
-<p>Desenvolvedor Full Stack com experiência sólida em ReactJS, React Native e Node.js, especializado no desenvolvimento de aplicações escaláveis e performáticas. Apaixonado por resolver desafios complexos e otimizar processos por meio da tecnologia.
-</p>
+## Felipe Iotti Zago
 
-##
+Desenvolvedor full stack, engenheiro eletricista pela UNESP. Trabalho em TypeScript ponta a ponta, e meu interesse está na fronteira entre as camadas: onde o contrato é definido e o que acontece quando a rede falha.
 
-<div align="center">
-  <a href="https://github.com/FelipeIotti">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FelipeIotti&theme=rose_pine&layout=compact"/>
-  <!-- <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=FelipeIotti&show_icons=true&theme=rose_pine&layout=compact"/>  -->
-   
-  </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Iotti-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Iotti-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Iotti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Iotti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Iotti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Iotti-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-          
- <img align="center" alt="Iotti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
- 
- <img align="center" alt="Iotti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
- 
-           
-          
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:felipe.iotti@unesp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-iotti-zago-9aa7141b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
- 
+**No que venho trabalhando**
+
+- Serviço de identidade em arquitetura hexagonal: 62 use cases, refresh token com detecção de replay, LGPD e consentimento versionado. Construído do zero, por independência de fornecedor.
+- Migração de um monolito NestJS em ECS para 13 serviços serverless em AWS Lambda, com Terraform e SQS. Sem downtime, e a suíte de testes passou de 92 para 867 arquivos.
+- Domínio de movimento de um índice de saúde: parser de Apple HealthKit e Android Health Connect, score de movimento e sinais vitais sobre 16 milhões de registros.
+
+**Stack** — TypeScript · Node.js · NestJS · React · Next.js · React Native · Expo · PostgreSQL · Prisma · AWS · Terraform · Docker
+
+A maior parte desse trabalho é privada. O que dá para mostrar está fixado abaixo.
+
+<div>
+  <a href="https://www.linkedin.com/in/felipeiottizago/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:felipe.iotti@unesp.br"><img src="https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logo=maildotru&logoColor=white"></a>
 </div>
